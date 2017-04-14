@@ -2,4 +2,4 @@
 
 Crowd er selve brukerdatabasen for Confluence og JIRA.
 
-https://crowd.cyb.no/crowd/
+https://crowd.dagenatifi.no/crowd/

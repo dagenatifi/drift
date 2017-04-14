@@ -1,3 +1,3 @@
 # JIRA
 
-https://jira.cyb.no/
+https://jira.dagenatifi.no/
